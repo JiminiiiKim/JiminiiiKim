@@ -13,9 +13,6 @@
 <a href="https://nanjimin.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/nan_jimin" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
 <a href="" target="_blank">
 <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
@@ -29,8 +26,8 @@
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/>
-<img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=java&logoColor=white">
-<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?style=flat-square&logo=java&logoColor=white">
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
 
 ## 💻 Libraries 💻
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
