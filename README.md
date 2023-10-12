@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=header&text=👋Welcome%20to%20Jimin's%20Github👋&fontSize=35&fontAlignY=30&fontAlign=50&height=250" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=header&text=👋Welcome%20to%20Jimin's%20Github👋&fontSize=40&fontAlignY=50&fontAlign=50&height=250" />
 
 <br>
 
@@ -29,8 +29,8 @@
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white"/>
-<img alt="java" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=java&logoColor=white">
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## 💻 Libraries 💻
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
