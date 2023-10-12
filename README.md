@@ -4,9 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=header&text=👋Welcome%20to%20Jimin's%20Github👋&fontSize=40&fontAlignY=50&fontAlign=50&height=250" />
 
-<br>
-
-## 👋 Hi, There 👋 
+<br> 
 
 ## 👩 About Me 
 <a href="mailto:gimin5341@gmail.com" target="_blank">
@@ -29,6 +27,8 @@
 <img alt="java" src="https://img.shields.io/badge/JAVA-007396.svg?style=flat-square&logo=java&logoColor=white">
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
 
+<br><br>
+
 ## 💻 Libraries
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
 <img alt="scikit-learn" src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -36,12 +36,12 @@
 <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
 <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
 
-<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminiiiKim)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiminiiiKim&layout=compact&theme=vue"/>
 
-<br>
+<br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminiiiKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<br>
+<br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=footer&height=250" />
 <div>
