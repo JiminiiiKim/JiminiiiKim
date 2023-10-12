@@ -6,6 +6,8 @@
 
 <br>
 
+## 👋 Hi, There 👋 
+
 ## 👩 About Me 
 <a href="mailto:gimin5341@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -34,9 +36,11 @@
 <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/>
 <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
 
-<br><br>
+<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiminiiiKim)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiminiiiKim&show_icons=true&theme=transparent)
+<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiminiiiKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=footer&height=250" />
