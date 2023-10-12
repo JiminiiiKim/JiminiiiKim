@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=header&text=👋Welcome%20to%20Jimin's%20Github👋&fontSize=40&fontAlignY=40&fontAlign=70&height=300" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&section=header&text=👋Welcome%20to%20Jimin's%20Github👋&fontSize=40&fontAlignY=30&fontAlign=70&height=300" />
 
 <br>
 
